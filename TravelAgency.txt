@@ -1,0 +1,15 @@
+class TravelAgency
+{
+List<Package> findPackagesWithMinimumNumberOfDays()
+{
+return null;
+}
+boolean validate(String packageId)
+{
+return false;
+}
+List<Package> generatePackageCost(String filePath)
+{
+return null;
+}
+}
